@@ -21,7 +21,7 @@ var speed = 0.7;
 var fourier;
 
 function preload() {
-	music = loadSound('assets/kissingyou_backing.mp3');
+	music = loadSound('assets/Dot.mp3');
 }
 
 function setup()
